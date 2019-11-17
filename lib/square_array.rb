@@ -3,6 +3,5 @@ def square_array(array)
   while counter < array.length do
     p array.shift ** 2
     counter += 1
-    
   end 
 end
